@@ -8,3 +8,9 @@ function sudo
     end
     command sudo $argv
 end
+
+# Removes Fish Greeting Welcome Message
+
+function fish_greeting
+    # do nothing
+end
